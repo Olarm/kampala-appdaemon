@@ -1,3 +1,7 @@
 morning_alarm:
   module: morning_alarm
   class: MorningAlarm
+
+power_control:
+  module: power_control
+  class: PowerControl
